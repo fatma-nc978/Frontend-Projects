@@ -52,9 +52,44 @@ Frontend-Projects/
 
 ---
 
-## 🌐 Canlı Demo
+### 2. JavaScript To-Do List Uygulaması
+Bu proje, JavaScript kullanarak geliştirdiğim basit bir To-Do List (yapılacaklar listesi) uygulamasıdır.  
+Kullanıcıların görev ekleyebildiği, silebildiği ve tamamlanan görevleri işaretleyebildiği bir arayüz sunmaktadır.
 
-Portfolio: [Vercel Link Buraya Gelecek](https://your-domain.vercel.app)
+JavaScript DOM manipülasyonu ve kullanıcı etkileşimlerini daha iyi anlamak amacıyla geliştirilmiştir.
 
-- Font Awesome ikonları
-- Google Fonts
+---
+
+## Özellikler
+
+- Yeni görev ekleyebilme  
+- Görevleri silebilme  
+- Görevleri tamamlandı olarak işaretleyebilme  
+- Dinamik liste güncelleme  
+- Kullanıcı dostu arayüz  
+
+---
+
+## Kullanılan Teknolojiler
+
+- HTML  
+- CSS  
+- JavaScript  
+- DOM Manipulation  
+
+---
+
+## Bu Projede Neler Öğrendim?
+
+Bu proje sayesinde:
+
+- JavaScript ile DOM üzerinde işlem yapmayı  
+- Event Listener kullanmayı  
+- Kullanıcı etkileşimlerini yönetmeyi  
+- Dinamik liste yapıları oluşturmayı  
+- Basit bir uygulamanın kullanıcı akışını planlamayı öğrendim.
+
+---
+
+
+
