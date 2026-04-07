@@ -3,7 +3,7 @@ HTML, CSS, Bootstrap ve JavaScript kullanarak yaptığım frontend projelerinin 
 
 ## Projeler
 
-### 1. Portfolio Website
+### 1. Portfolio Website , Link: https://fatma-nc978.github.io/Frontend-Projects/portfolio/
 Kişisel portfolio web sitesi - HTML, CSS, Bootstrap ile tasarlanmış.
 
 **Özellikler:**
@@ -52,7 +52,7 @@ Frontend-Projects/
 
 ---
 
-### 2. JavaScript To-Do List Uygulaması
+### 2. JavaScript To-Do List Uygulaması , Link: https://fatma-nc978.github.io/Frontend-Projects/JS-TodoList/
 Bu proje, JavaScript kullanarak geliştirdiğim basit bir To-Do List (yapılacaklar listesi) uygulamasıdır.  
 Kullanıcıların görev ekleyebildiği, silebildiği ve tamamlanan görevleri işaretleyebildiği bir arayüz sunmaktadır.
 
@@ -91,5 +91,35 @@ Bu proje sayesinde:
 
 ---
 
+
+3. Kahve Köşesi - Kafe Landing Page , link: https://fatma-nc978.github.io/Frontend-Projects/cafe-landing-page/
+HTML, CSS ve Bootstrap kullanarak tasarladığım modern ve responsive bir kafe landing page projesidir.
+Özellikler:
+* Responsive tasarım (mobil uyumlu)
+* Smooth scroll navigasyon
+* Filtrelenebilir menü kartları (JavaScript)
+* Hover efektli galeri
+* İletişim formu
+  
+Sayfalar:
+* index.html - Ana sayfa (tek sayfa tasarım)
+  
+Kullanılan Teknolojiler
+* HTML5 - Semantik yapı
+* CSS3 - Modern styling ve animasyonlar
+* Bootstrap 5 - Grid sistemi ve componentler
+* JavaScript - Menü filtreleme
+  
+Klasör Yapısı
+├── cafe-landing-page/
+│   ├── index.html
+│   ├── style.css
+│   └── images/
+│       ├── bean (1).png
+│       ├── clock (1).png
+│       ├── email.png
+│       ├── gmail.png
+│       ├── maps-and-flags.png
+│       └── phone-call.png
 
 
