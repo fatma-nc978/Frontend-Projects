@@ -92,4 +92,34 @@ Bu proje sayesinde:
 ---
 
 
+3. Kahve Köşesi - Kafe Landing Page
+HTML, CSS ve Bootstrap kullanarak tasarladığım modern ve responsive bir kafe landing page projesidir.
+Özellikler:
+* Responsive tasarım (mobil uyumlu)
+* Smooth scroll navigasyon
+* Filtrelenebilir menü kartları (JavaScript)
+* Hover efektli galeri
+* İletişim formu
+  
+Sayfalar:
+* index.html - Ana sayfa (tek sayfa tasarım)
+  
+Kullanılan Teknolojiler
+* HTML5 - Semantik yapı
+* CSS3 - Modern styling ve animasyonlar
+* Bootstrap 5 - Grid sistemi ve componentler
+* JavaScript - Menü filtreleme
+  
+Klasör Yapısı
+├── cafe-landing-page/
+│   ├── index.html
+│   ├── style.css
+│   └── images/
+│       ├── bean (1).png
+│       ├── clock (1).png
+│       ├── email.png
+│       ├── gmail.png
+│       ├── maps-and-flags.png
+│       └── phone-call.png
+
 
