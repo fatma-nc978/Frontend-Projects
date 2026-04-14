@@ -117,7 +117,7 @@ HTML, CSS ve Bootstrap kullanarak tasarladığım modern ve responsive bir kafe 
 
 
 
-### 4. kurs listeleme uygulaması , link: https://fatma-nc978.github.io/Frontend-Projects/cafe-landing-page/
+### 4. kurs listeleme uygulaması 
 Bu proje, özellikle React kullanılarak geliştirilmiş çeşitli programlama kurslarını kart formatında listeleyen bir web uygulamasıdır. Kullanıcılar kurslara ait başlık, açıklama, fiyat ve satın alma linkini görebilir.
 
 ## Kullanılan Teknolojiler:
