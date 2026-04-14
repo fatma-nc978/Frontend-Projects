@@ -49,6 +49,14 @@ Frontend-Projects/
 
 
 
+
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
 ### 2. JavaScript To-Do List Uygulaması , Link: https://fatma-nc978.github.io/Frontend-Projects/JS-TodoList/
 Bu proje, JavaScript kullanarak geliştirdiğim basit bir To-Do List (yapılacaklar listesi) uygulamasıdır.  
 Kullanıcıların görev ekleyebildiği, silebildiği ve tamamlanan görevleri işaretleyebildiği bir arayüz sunmaktadır.
@@ -78,6 +86,14 @@ Bu proje sayesinde:
 - Kullanıcı etkileşimlerini yönetmeyi  
 - Dinamik liste yapıları oluşturmayı  
 - Basit bir uygulamanın kullanıcı akışını planlamayı öğrendim.
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
 
 
 
@@ -117,6 +133,14 @@ HTML, CSS ve Bootstrap kullanarak tasarladığım modern ve responsive bir kafe 
 
 
 
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
 ### 4. kurs listeleme uygulaması 
 Bu proje, özellikle React kullanılarak geliştirilmiş çeşitli programlama kurslarını kart formatında listeleyen bir web uygulamasıdır. Kullanıcılar kurslara ait başlık, açıklama, fiyat ve satın alma linkini görebilir.
 
@@ -137,6 +161,11 @@ src/
 ├── courses.css      # Kurs kartı stilleri
 ├── Data.jsx         # Kurs verileri
 └── images/          # Kurs görselleri
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
