@@ -169,3 +169,30 @@ src/
 
 
 
+### 5.Görsel arama uygulaması , Link: https://fatma-nc978.github.io/Frontend-Projects/JS-searchApp/
+Unsplash API kullanarak görsel arama yapabileceğiniz, sade ve kullanışlı bir web uygulaması.
+
+## Kullanılan Teknolojiler
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* Unsplash API
+
+## Özellikler
+* Anahtar kelimeye göre görsel arama
+* Unsplash'ten gerçek zamanlı veri çekme (Fetch API)
+* Sonuçları kart formatında listeleme
+* Tek tıkla arama alanını ve sonuçları temizleme
+
+## Dosya Yapısı
+image-search/
+├── index.html
+├── style.css
+└── App.js
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
