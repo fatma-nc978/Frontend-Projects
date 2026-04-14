@@ -1,5 +1,5 @@
 # Frontend Projects 
-HTML, CSS, Bootstrap ve JavaScript kullanarak yaptığım frontend projelerinin koleksiyonu burada olacak.
+HTML, CSS, Bootstrap, JavaScript ve React kullanarak yaptığım frontend projelerinin bilgilendirmeleri buradadır.
 
 ## Projeler
 
@@ -14,14 +14,13 @@ Kişisel portfolio web sitesi - HTML, CSS, Bootstrap ile tasarlanmış.
 -  CV görüntüleme
 
 **Sayfalar:**
-- `Portfolio.html` - Ana sayfa
-- `özgeçmiş.html` - CV sayfası
-- `iletişim.html` - İletişim formu
+- Portfolio.html - Ana sayfa
+- özgeçmiş.html - CV sayfası
+- iletişim.html - İletişim formu
 
 ---
 
 ##  Kullanılan Teknolojiler
-
 - **HTML5** - Semantik yapı
 - **CSS3** - Modern styling ve responsive design
 - **Bootstrap 5** - Component kütüphanesi
@@ -31,7 +30,6 @@ Kişisel portfolio web sitesi - HTML, CSS, Bootstrap ile tasarlanmış.
 ---
 
 ##  Klasör Yapısı
-```
 Frontend-Projects/
 ├── portfolio.project/
 │   ├── Portfolio.html
@@ -48,9 +46,8 @@ Frontend-Projects/
 │   └── files/
 │       └── CV.TURKISH.g.pdf
 └── README.md
-```
 
----
+
 
 ### 2. JavaScript To-Do List Uygulaması , Link: https://fatma-nc978.github.io/Frontend-Projects/JS-TodoList/
 Bu proje, JavaScript kullanarak geliştirdiğim basit bir To-Do List (yapılacaklar listesi) uygulamasıdır.  
@@ -58,29 +55,22 @@ Kullanıcıların görev ekleyebildiği, silebildiği ve tamamlanan görevleri i
 
 JavaScript DOM manipülasyonu ve kullanıcı etkileşimlerini daha iyi anlamak amacıyla geliştirilmiştir.
 
----
-
 ## Özellikler
-
 - Yeni görev ekleyebilme  
 - Görevleri silebilme  
 - Görevleri tamamlandı olarak işaretleyebilme  
 - Dinamik liste güncelleme  
 - Kullanıcı dostu arayüz  
 
----
 
 ## Kullanılan Teknolojiler
-
 - HTML  
 - CSS  
 - JavaScript  
 - DOM Manipulation  
 
----
 
 ## Bu Projede Neler Öğrendim?
-
 Bu proje sayesinde:
 
 - JavaScript ile DOM üzerinde işlem yapmayı  
@@ -89,28 +79,31 @@ Bu proje sayesinde:
 - Dinamik liste yapıları oluşturmayı  
 - Basit bir uygulamanın kullanıcı akışını planlamayı öğrendim.
 
----
 
 
-3. Kahve Köşesi - Kafe Landing Page , link: https://fatma-nc978.github.io/Frontend-Projects/cafe-landing-page/
+### 3. Kahve Köşesi - Kafe Landing Page , link: https://fatma-nc978.github.io/Frontend-Projects/cafe-landing-page/
 HTML, CSS ve Bootstrap kullanarak tasarladığım modern ve responsive bir kafe landing page projesidir.
-Özellikler:
+
+## Özellikler:
 * Responsive tasarım (mobil uyumlu)
 * Smooth scroll navigasyon
 * Filtrelenebilir menü kartları (JavaScript)
 * Hover efektli galeri
 * İletişim formu
+
   
-Sayfalar:
+## Sayfalar:
 * index.html - Ana sayfa (tek sayfa tasarım)
+
   
-Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 * HTML5 - Semantik yapı
 * CSS3 - Modern styling ve animasyonlar
 * Bootstrap 5 - Grid sistemi ve componentler
 * JavaScript - Menü filtreleme
+
   
-Klasör Yapısı
+## Klasör Yapısı
 ├── cafe-landing-page/
 │   ├── index.html
 │   ├── style.css
@@ -121,5 +114,29 @@ Klasör Yapısı
 │       ├── gmail.png
 │       ├── maps-and-flags.png
 │       └── phone-call.png
+
+
+
+### 4. kurs listeleme uygulaması , link: https://fatma-nc978.github.io/Frontend-Projects/cafe-landing-page/
+Bu proje, özellikle React kullanılarak geliştirilmiş çeşitli programlama kurslarını kart formatında listeleyen bir web uygulamasıdır. Kullanıcılar kurslara ait başlık, açıklama, fiyat ve satın alma linkini görebilir.
+
+## Kullanılan Teknolojiler:
+* React
+* Vite
+* CSS
+
+
+## Proje Yapısı:
+src/
+├── App.jsx          # Ana uygulama bileşeni
+├── App.css          # Uygulama stilleri
+├── main.jsx         # Giriş noktası
+├── index.css        # Global stiller
+├── Header.jsx       # Başlık bileşeni
+├── Course.jsx       # Kurs kartı bileşeni
+├── courses.css      # Kurs kartı stilleri
+├── Data.jsx         # Kurs verileri
+└── images/          # Kurs görselleri
+
 
 
