@@ -141,7 +141,7 @@ HTML, CSS ve Bootstrap kullanarak tasarladığım modern ve responsive bir kafe 
 
 
 
-### 4. kurs listeleme uygulaması 
+### 4. React-coursesApp - kurs listeleme uygulaması 
 Bu proje, özellikle React kullanılarak geliştirilmiş çeşitli programlama kurslarını kart formatında listeleyen bir web uygulamasıdır. Kullanıcılar kurslara ait başlık, açıklama, fiyat ve satın alma linkini görebilir.
 
 ## Kullanılan Teknolojiler:
@@ -169,7 +169,7 @@ src/
 
 
 
-### 5.Görsel arama uygulaması , Link: https://fatma-nc978.github.io/Frontend-Projects/JS-searchApp/
+### 5. React-coursesApp  -  Görsel arama uygulaması , Link: https://fatma-nc978.github.io/Frontend-Projects/JS-searchApp/
 Unsplash API kullanarak görsel arama yapabileceğiniz, sade ve kullanışlı bir web uygulaması.
 
 ## Kullanılan Teknolojiler
@@ -194,5 +194,21 @@ image-search/
 --------------------------------------------------------------------------------------------------------------------------------------
 
 
+### 6. React-coursesApp - Döviz kur hesaplama uygulaması
+Gerçek zamanlı döviz kuru verilerini kullanarak para birimi dönüşümü yapan bir web uygulaması.
+
+## Özellikler
+* +30 para birimi desteği (USD, EUR, TRY, JPY vb.)
+* Gerçek zamanlı kur verisi (FreeCurrencyAPI)
+* Anlık dönüşüm sonucu
+* Sade ve kullanışlı arayüz
+
+## Kullanılan Teknolojiler
+* HTML5
+* CSS3
+* JavaScript
+* FreeCurrencyAPI
 
 
+
+------------------------------------------------------------------------------------------------------------------------------------------
