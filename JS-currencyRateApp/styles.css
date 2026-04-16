@@ -1,0 +1,27 @@
+ .main {
+     width: 700px;
+     height: 150px;
+     justify-self: anchor-center;
+     text-align: -webkit-center;
+     background-color: rgb(243, 238, 238);
+     border: 1px solid rgb(152, 151, 151);
+     border-radius: 20px;
+     -webkit-border-radius: 20px;
+     -moz-border-radius: 20px;
+     -ms-border-radius: 20px;
+     -o-border-radius: 20px;
+     box-shadow: 2px 3px 1px 2px rgb(211, 211, 211);
+ }
+
+ #amount {
+     margin-right: 10px;
+ }
+
+ #result {
+     margin-left: 10px;
+ }
+
+ #run {
+     background-color: rgb(170, 170, 185);
+     margin-left: 10px;
+ }
