@@ -1,4 +1,13 @@
+ .body {
+     background-image: url(images/vintage-globe-bed-various-currencies_10307-8386.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: top;
+     height: 100vh;
+ }
+
  .main {
+     margin-top: 200px;
      width: 700px;
      height: 150px;
      justify-self: anchor-center;
@@ -10,7 +19,7 @@
      -moz-border-radius: 20px;
      -ms-border-radius: 20px;
      -o-border-radius: 20px;
-     box-shadow: 2px 3px 1px 2px rgb(211, 211, 211);
+     box-shadow: 2px 3px 1px 2px rgb(87, 87, 87);
  }
 
  #amount {
