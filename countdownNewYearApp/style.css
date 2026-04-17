@@ -1,0 +1,88 @@
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+    font-family: cursive;
+    background-image: url(images/freepik__talk__18789.png);
+    background-size: cover;
+    background-position: left;
+    background-repeat: no-repeat;
+
+}
+
+.container {
+    width: 100½;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+
+}
+
+.year {
+    color: #fff;
+    font-size: 5rem;
+    justify-self: center;
+    margin-bottom: 18px;
+
+}
+
+.countdown {
+    color: #fff;
+    background-color: rgb(135, 5, 5);
+    width: 400px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid rgb(83, 5, 5);
+    box-shadow: 2px 5px 5px rgb(15, 0, 0);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.countdown div {
+    margin: 0 15px;
+    font-size: 2.3rem;
+    font-weight: 500;
+
+}
+
+.span {
+    font-size: 1.1rem !important;
+    font-weight: 500;
+}
+
+.days {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.hours {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.minutes {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.seconds {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
