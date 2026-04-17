@@ -1,3 +1,11 @@
+.body {
+    background-image: url(images/blue-wave-abstract-background-design-website-header_204719-181093.jpg);
+    height: 100vh;
+    background-repeat: repeat-y;
+    background-size: cover;
+    background-position: center;
+}
+
 #form {
     text-align: center;
 }
@@ -11,10 +19,11 @@
 }
 
 #searchBut {
+    color: #fff;
     width: 100px;
     height: 30px;
     margin-right: 15px;
-    background-color: rgb(169, 205, 205);
+    background-color: rgb(137, 190, 190);
     border-color: rgb(148, 160, 160);
     border-radius: 30px;
     -webkit-border-radius: 30px;
@@ -25,10 +34,11 @@
 }
 
 #clearBut {
+    color: #fff;
     width: 100px;
     height: 30px;
-    background-color: #fff;
-    border-color: rgb(187, 205, 205);
+    background-color: #3e657e;
+    border-color: rgb(54, 65, 65);
     border-radius: 30px;
     -webkit-border-radius: 30px;
     -moz-border-radius: 30px;
@@ -50,7 +60,7 @@
     margin-bottom: 30px;
     border: 1px solid rgb(161, 156, 156);
     padding: 10px;
-    box-shadow: 3px 5px 3px rgb(184, 177, 177);
+    box-shadow: 3px 5px 3px rgb(56, 123, 156);
 }
 
 .card:hover {
