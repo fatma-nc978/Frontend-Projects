@@ -212,3 +212,24 @@ Gerçek zamanlı döviz kuru verilerini kullanarak para birimi dönüşümü yap
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
+
+### 7. countdownNewYearApp - Yeni yıla geri sayım uygulaması Link : https://fatma-nc978.github.io/Frontend-Projects/countdownNewYearApp/
+2027 yeni yılına kalan süreyi gerçek zamanlı gösteren geri sayım uygulaması.
+
+## Özellikler
+* Gün, saat, dakika ve saniye bazında canlı geri sayım
+* Her saniye otomatik güncelleme (setTimeout ile)
+* Sade ve odaklanmış arayüz
+
+## Kullanılan Teknolojiler
+* HTML5
+* CSS3
+* JavaScript
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
